@@ -35,3 +35,13 @@ with centralized authentication, authorization, and security policies.
 - Security → Policies and hardening
 
 This project is intended for cybersecurity learning and practice.
+
+
+## Learning Outcomes
+
+- Understood enterprise Active Directory architecture
+- Implemented identity and access management
+- Applied security policies using Group Policy
+- Gained hands-on experience with Windows Server security
+- Learned to document infrastructure professionally
+
